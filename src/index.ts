@@ -1,0 +1,1 @@
+const text="my first string"
